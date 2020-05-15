@@ -1,6 +1,10 @@
 # About
 A simple app that allows user to add markers on a map by entering addresses
 
+<p align="center">
+  <img src="locator_demo.gif">
+</p>
+
 # Description
 ### Purpose
 I built this application while learning about GeoJSON. I learnt how to use mapbox and GeoJSON data to show locations and map view in a webpage.
