@@ -2,7 +2,7 @@
 A simple app that allows user to add markers on a map by entering addresses
 
 <p align="center">
-  <img widtch="540" src="locator_demo.gif">
+  <img width="480" height="320" src="locator_demo.gif">
 </p>
 
 # Description
