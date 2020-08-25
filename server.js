@@ -7,7 +7,7 @@ const db = require('./config/connectDB');
 const app = express();
 
 // Load env variables
-dotenv.config({ path: './config/config.env' });
+dotenv.config({ path: './config.env' });
 
 // Use express body parser
 app.use(express.json());
