@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "app to add and locate geojson info",
   "main": "server.js",
+  "engines": {
+    "node": "14.8.0"
+  },
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
